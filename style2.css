@@ -45,8 +45,25 @@ header {
 	background-color: rgba(189, 128, 98,74);
 }
 
+.coffee h2{
+	text-align: center;
+}
+
+table {
+	
+	table-layout: fixed;
+	width: 100%;
+}
+
+td {
+	padding: 10px;
+	text-align:center;
+}
+
 .coffee img {
 	height: 300px;
+	object-fit: cover;
+	width: 200px;
 }
 
 p{
