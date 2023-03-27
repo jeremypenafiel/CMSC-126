@@ -1,0 +1,54 @@
+body{
+	font-family: Arial;
+
+
+}
+
+header {
+	text-align:center;
+}
+
+
+
+.navBar{
+	display:block;
+	position: fixed;
+	top: 0;
+	width: 100%;
+	height: 30px;
+	background-color: rgba(242, 213, 199, 95);
+}
+
+.navBar: hover{
+	color:white;
+}
+
+.navBar a{
+	text-decoration: none;
+	color: black;
+	padding: 10px;
+}
+
+.navBar a: hover{
+	background-color: white;
+}
+
+#banner {
+	opacity: 0.5;
+	color: black;
+	max-width:100%;
+	height: auto;
+}
+
+
+.coffee{
+	background-color: rgba(189, 128, 98,74);
+}
+
+.coffee img {
+	height: 300px;
+}
+
+p{
+font-family: Arial;
+}
